@@ -15,4 +15,10 @@ public class TDDCalc {
         result = a/b;
         return result;
     }
+    
+    public double add(double a, double b){
+        double result;
+        result = a + b;
+        return result;
+    }
 }
