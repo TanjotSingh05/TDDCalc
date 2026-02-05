@@ -6,7 +6,7 @@ package com.mycompany.tddcalc;
 
 /**
  *
- * @author tanjotsingh
+ * @author tanjotsingh changes
  */
 public class TDDCalc {
 
